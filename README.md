@@ -1,5 +1,5 @@
 # happy_chicken
-game coded using Java! (2025)
+game coded using Java!
 
 Hi! This is a game i coded using Java called Happy Chicken!
 During Year 1 of my Bachelor's Degree in Computer Science at City St Georges University of London, 
