@@ -1,2 +1,12 @@
 # happy_chicken
 game coded using Java!
+
+Hi! This is a game i coded using Java called Happy Chicken!
+During Year 1 of my Bachelor's Degree in Computer Science at City St Georges University of London, 
+I coded this game as my final project for my Programming in Java module. 
+
+This game uses CityEngine. I designed this game from scratch, from the pictures to coding of the game. 
+There is also an introduction video in the file, that explains how to play the game and how the game 
+works! I hope you like my game, and have fun playing! 
+
+- Joyce Ow 2025 :)
